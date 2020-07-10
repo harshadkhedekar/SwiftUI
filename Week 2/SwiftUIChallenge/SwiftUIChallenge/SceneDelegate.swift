@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  SwiftUI_Starter
+//  SwiftUIChallenge
 //
-//  Created by Prakash Khedekar, Harshad on 30/06/20.
+//  Created by Prakash Khedekar, Harshad on 10/07/20.
 //
 
 import UIKit
@@ -61,9 +61,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 }
 
-
-struct SceneDelegate_Previews: PreviewProvider {
-    static var previews: some View {
-        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
-    }
-}
